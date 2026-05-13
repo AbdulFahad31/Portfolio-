@@ -1,3 +1,4 @@
+"use client";
 import About from "@/components/sections/About";
 import Achievements from "@/components/sections/Achievements";
 import Contact from "@/components/sections/Contact";
