@@ -1,0 +1,13 @@
+
+> abdul-fahad-portfolio@1.0.0 dev
+> next dev -p 3004
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3004
+
+ ✓ Starting...
+ ✓ Ready in 1951ms
+ ○ Compiling / ...
+ ✓ Compiled / in 8.6s (1353 modules)
+ GET / 200 in 9107ms
+ GET / 200 in 36ms
