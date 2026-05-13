@@ -21,7 +21,7 @@ const mono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://abdulfahad.dev"),
+  metadataBase: new URL("https://abdulfahad31.github.io/Portfolio-"),
   title: {
     default: "Abdul Fahad M | Flutter & Full-Stack Developer",
     template: "%s | Abdul Fahad M"
@@ -42,14 +42,14 @@ export const metadata: Metadata = {
   creator: "Abdul Fahad M",
   openGraph: {
     type: "website",
-    url: "https://abdulfahad.dev",
+    url: "https://abdulfahad31.github.io/Portfolio-",
     title: "Abdul Fahad M | Flutter & Full-Stack Developer",
     description:
       "Computer Science Engineer crafting real-world applications, hackathon-winning systems, and modern digital products.",
     siteName: "Abdul Fahad M Portfolio",
     images: [
       {
-        url: "/assets/og.svg",
+        url: "/Portfolio-/assets/og.svg",
         width: 1200,
         height: 630,
         alt: "Abdul Fahad M portfolio preview"
@@ -61,7 +61,7 @@ export const metadata: Metadata = {
     title: "Abdul Fahad M | Flutter & Full-Stack Developer",
     description:
       "Flutter developer and full-stack builder shipping mobile apps, backend systems, and AI-powered tools.",
-    images: ["/assets/og.svg"]
+    images: ["/Portfolio-/assets/og.svg"]
   },
   robots: {
     index: true,

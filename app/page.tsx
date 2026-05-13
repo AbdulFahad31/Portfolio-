@@ -14,7 +14,7 @@ const jsonLd = {
   jobTitle: "Flutter Developer and Full-Stack Developer",
   description:
     "Computer Science Engineering student building Flutter apps, full-stack systems, AI-powered tools, and scalable products.",
-  url: "https://abdulfahad.dev",
+  url: "https://abdulfahad31.github.io/Portfolio-",
   sameAs: [
     "https://github.com/AbdulFahad31",
     "https://www.linkedin.com/in/abdul-fahad-m/",
