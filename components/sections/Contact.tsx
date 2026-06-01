@@ -29,20 +29,12 @@ export default function Contact() {
     setStatus("Sending message...");
 
     try {
-      const response = await fetch("https://formsubmit.co/ajax/abdulfahad676@gmail.com", {
+      const response = await fetch("/api/contact", {
         method: "POST",
         headers: {
-          "Content-Type": "application/json",
-          Accept: "application/json"
+          "Content-Type": "application/json"
         },
-        body: JSON.stringify({
-          name,
-          email,
-          message,
-          _subject: `Portfolio enquiry from ${name}`,
-          _captcha: "false",
-          _template: "table"
-        })
+        body: JSON.stringify({ name, email, message })
       });
 
       if (!response.ok) {

@@ -57,7 +57,8 @@ export default function Hero() {
             <ArrowRight className="h-4 w-4" />
           </a>
           <a
-            href="/Portfolio-/assets/Abdul-Fahad-Resume.pdf"
+            href="/assets/Abdul-Fahad-Resume.pdf"
+            download="Abdul-Fahad-Resume.pdf"
             className="focus-ring inline-flex h-12 items-center justify-center gap-2 rounded-md border border-ink-border px-6 text-sm font-semibold text-ink-primary transition hover:-translate-y-0.5 hover:border-accent-blue hover:bg-accent-blue/10"
           >
             <Download className="h-4 w-4" />
